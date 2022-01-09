@@ -1,0 +1,63 @@
+#features ul {
+    margin: 80px 0;
+    color: black;
+}
+#features ul li {
+    width: 300px;
+    padding-top: 140px;
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+    /* font-family: 'Brush Script MT', cursive; */
+}
+#features ul li.feature-1 {
+    background: url('searchicon.png') no-repeat top center;
+}
+#features ul li.feature-2 {
+    background: url('easyreg.png') no-repeat top center;
+}
+#features ul li.feature-3 {
+    background: url('issuebook.png') no-repeat top center;
+}
+/* body{
+    background-image: url('background/cool-background\ \(5\).png');
+   ....... wrong................
+} */
+
+
+
+
+
+#primary-content {
+    /* background-color: #f8fafa; */
+    /* background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%); */
+    padding: 60px 0;
+    text-align: center;
+    padding-top: 281px;
+    color: black;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+#primary-content h3 {
+    /* background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%); */
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 400px;
+    font-family: 'Brush Script MT', cursive;
+    padding: 0 0 20px 0;
+    color: black;
+    font-size: 220%;
+}
+#primary-content a img {
+    margin: 20px 0;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
